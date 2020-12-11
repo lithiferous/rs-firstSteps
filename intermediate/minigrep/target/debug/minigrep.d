@@ -1,1 +1,0 @@
-/home/bane/projects/rust/studies/intermediate/minigrep/target/debug/minigrep: /home/bane/projects/rust/studies/intermediate/minigrep/src/lib.rs /home/bane/projects/rust/studies/intermediate/minigrep/src/main.rs
